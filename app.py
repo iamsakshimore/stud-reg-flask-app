@@ -6,7 +6,7 @@ app = Flask(__name__)
 # Database configuration
 db_config = {
     'host': 'terraform-20260423114105979800000005.cwxw6iwccu5b.us-east-1.rds.amazonaws.com:3306',
-    'user': 'admin',
+    'user': 'dbadmin',
     'password': 'pass1234',
     'database': 'studentsdb'
 }
